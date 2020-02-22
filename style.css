@@ -168,7 +168,7 @@ input:focus {
   /*16px width of fake checkbox + 6px distance between fake checkbox and text*/
   padding-left: 3rem;
   padding-top: 0.4rem;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: bold;
 }
 
