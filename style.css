@@ -106,7 +106,7 @@ header .title-link:focus h1 {
 .content-container {
   background-color: white;
   margin: 0 1rem 1rem 1rem;
-  padding: 0.5rem;
+  padding: 0rem;
   position: relative;
 }
 
@@ -130,7 +130,7 @@ header .title-link:focus h1 {
 
 .content-container p {
   font-size: 1.25rem;
-  padding: 0 0.5rem;
+  padding: 0 0;
   margin: 0;
 }
 
