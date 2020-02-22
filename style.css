@@ -13,8 +13,8 @@ header {
   height: 65vh;
   top: 0;
   width: 100%;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("images/pexels-photo-2304917.jpeg");
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/pexels-photo-2304917.jpeg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("https://images.pexels.com/photos/2304917/pexels-photo-2304917.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.pexels.com/photos/2304917/pexels-photo-2304917.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
