@@ -129,12 +129,46 @@ header {
   p {
     font-size: 1.25rem;
     padding: 0 0;
-    margin: 0;
+    margin: 1rem 0;
+  }
+
+  a,
+  a:visited {
+    color: $primary;
+    font-size: 1.25rem;
+    font-weight: bold;
+    // padding: auto 1vmax;
+    // height: 100%;
+  }
+
+  a:hover,
+  a:active {
+    cursor: pointer;
+    outline: 3px solid $primary;
+    text-decoration: underline;
+  }
+
+  a:focus {
+    outline: 3px solid $primary;
+    text-decoration: underline;
+  }
+
+  address {
+    margin: 1rem;
+  }
+
+  ol {
+    font-size: 1.25rem;
+    margin: 1rem;
   }
 
   ul {
     font-size: 1.25rem;
     margin: 0;
+  }
+
+  li {
+    margin: 0.5rem;
   }
 }
 

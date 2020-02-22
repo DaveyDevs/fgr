@@ -131,12 +131,44 @@ header .title-link:focus h1 {
 .content-container p {
   font-size: 1.25rem;
   padding: 0 0;
-  margin: 0;
+  margin: 1rem 0;
+}
+
+.content-container a,
+.content-container a:visited {
+  color: #010108;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.content-container a:hover,
+.content-container a:active {
+  cursor: pointer;
+  outline: 3px solid #010108;
+  text-decoration: underline;
+}
+
+.content-container a:focus {
+  outline: 3px solid #010108;
+  text-decoration: underline;
+}
+
+.content-container address {
+  margin: 1rem;
+}
+
+.content-container ol {
+  font-size: 1.25rem;
+  margin: 1rem;
 }
 
 .content-container ul {
   font-size: 1.25rem;
   margin: 0;
+}
+
+.content-container li {
+  margin: 0.5rem;
 }
 
 input[type="text"],
